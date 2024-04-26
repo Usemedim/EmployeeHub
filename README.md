@@ -5,18 +5,18 @@ Workforce Manager:
 This program provides employee management using SQLite database. Thanks to the user interface, it is possible to add and remove employees, add working hours and leave records, and view summary information.
 Attention: The program creates its own database when first used. Your data is stored in the same directory as the program in the employee.db file. If you delete it, you will reset the program! It might be a good idea to make backups of it as you use it.
 1. Adding and Removing Employees:
-• They can add new employees to the system. Information such as name, position and status can be entered for each employee.
-• They can remove existing employees from the system.
+• You can add new employees to the system. Information such as name, position and status can be entered for each employee.
+• You can remove existing employees from the system.
 2. Recording Working Hours:
-• They can record the daily working hours of employees. They can determine their working hours by entering details such as start and end times, break start and end times. These are made easier with the help of a calendar.
+• You can record the daily working hours of employees. You can determine their working hours by entering details such as start and end times, break start and end times. These are made easier with the help of a calendar.
 3. Add and Edit Leave Record:
-• They can add employees' leave records. They can create leave records by entering information such as leave type (for example, sick leave or annual leave), start and end dates, and description. Data can be entered via a calendar.
+• You can add employees' leave records. You can create leave records by entering information such as leave type (for example, sick leave or annual leave), start and end dates, and description. Data can be entered via a calendar.
 4. Viewing Summary Information:
-• They can see the total working hours, break times and net working hours of employees.
-• They can monitor employees' total annual leave and sick leave usage.
+• You can see the total working hours, break times and net working hours of employees.
+• You can monitor employees' total annual leave and sick leave usage.
 • You can print summary information into an excel file.
 5. Filtering and Searching:
-• They can filter the employee list by name, position or status. This allows them to find a specific employee or groups more easily.# Code sample goes here
+• You can filter the employee list by name, position or status. This allows them to find a specific employee or groups more easily.# Code sample goes here
 
 
 Explanation:
