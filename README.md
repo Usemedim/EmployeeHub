@@ -17,6 +17,8 @@ Attention: The program creates its own database when first used. Your data is st
 • You can print summary information into an excel file.
 5. Filtering and Searching:
 • They can filter the employee list by name, position or status. This allows them to find a specific employee or groups more easily.# Code sample goes here
+
+
 Explanation:
 The program provides employee management through a graphical interface. Employee information, working hours and leave records are stored using the SQLite database. Additionally, each record added to the database contains database triggers that automatically update summary information.
 Example Usage:
