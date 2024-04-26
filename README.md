@@ -1,5 +1,6 @@
 # EmployeeHub
 Deze app voor werknemersbeheer. Berekent en vat de werkuren samen.
+
 Workforce Manager:
 This program provides employee management using SQLite database. Thanks to the user interface, it is possible to add and remove employees, add working hours and leave records, and view summary information.
 Attention: The program creates its own database when first used. Your data is stored in the same directory as the program in the employee.db file. If you delete it, you will reset the program! It might be a good idea to make backups of it as you use it.
