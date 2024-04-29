@@ -26,3 +26,9 @@ Example Usage:
 2. To add work hours, select an employee and click the "Add Work Hours" button.
 3. To add a leave record, select an employee and click the "Add Leave Record" button.
 4. Click the "Show Summary" button to display the summary information. Get as much as you filter or the entire record as Excel output.
+
+Updates coming with version 2
+1 - Users will now be able to define different shift definitions in terms of timing and specify working hours when entering them. Normal and Weekend_holiday options are currently added. ''Normal'' is the default selection.
+2 - Now users will be able to add different job types according to the nature of the job. "General Cleaning job" and "Special Cleaning job" are currently stored. ''General Cleaning job'' is the default selection.
+
+3 - The summary view is divided into two parts: Summary focused on Leaves and Summary focused on Working hours. Both printable excel outputs can be taken.
