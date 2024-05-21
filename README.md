@@ -16,7 +16,7 @@ Attention: The program creates its own database when first used. Your data is st
 • You can monitor employees' total annual leave and sick leave usage.
 • You can print summary information into an excel file.
 5. Filtering and Searching:
-• You can filter the employee list by name, position or status. This allows them to find a specific employee or groups more easily.# Code sample goes here
+• You can filter the employee list by name, position or status. This allows them to find a specific employee or groups more easily.
 
 
 Explanation:
